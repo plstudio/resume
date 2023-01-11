@@ -1,0 +1,26 @@
+section {
+    margin: auto 1em 4em 2em;
+}
+
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto;
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1, h2 {
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+#mainLeft {
+    border-right: 1px solid  lightgray;
+}
